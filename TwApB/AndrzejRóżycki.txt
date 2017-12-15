@@ -1,0 +1,10 @@
+1. cd Desktop
+mkdir TwApB
+touch AndrzejRó¿ycki.txt
+3. Ostatni commit wykonano 4 godziny temu.
+4. We wskazanym repozytorium s¹ 4 pliki.
+5. Plik README.md zawiera:
+ "Test-Ruby
+
+To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych"
+6. git init Git

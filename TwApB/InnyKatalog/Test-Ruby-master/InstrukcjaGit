@@ -1,0 +1,21 @@
+Wykonać następujące zadania:
+
+1. Utworzyć w roboczym katalogu TwApB plik tekstowy o nazwie 'ImieNazwisko'. 
+2. W pliku tym należy wpisywać wszystkie poniżej wykonane komendy Git i odpowiedzi na pytania.
+
+3. Kiedy we wskazanym repozytorium wykonano ostatni commit?
+4. Ile jest plików we wskazanym repozytorium? 
+5. Jaka jest zawartość pliku README.md
+6. W katalogu TwApB utworzyć repozytorium Git.
+7. Zapisać w nim plik 'ImieNazwisko' i zapisać bieżący stan pliku w repozytorium.
+8. Do innego katalogu sklonować repozytorium zdalne https://github.com/elois/Test-Ruby
+9. Rozwiązać zadania podane w pliku 'Instrukcja'. Ważne:
+	- pliki z rozwiązanimi mają się znaleźć w katalogu 'ImieNazwisko'. Każde zadanie ma się znaleźć w niezależnym pliku.
+	- w każdym pliku w nagłówku w komentarzu mają się znaleźć nastepujące informacje:
+		- imię i nazwisko 
+		- bieżąca data
+		- treść zadania
+	- w każdym pliku na końcu kody w komentarzy podać przykłady prezentujące działanie programu
+5. Dodać wszystkie pliki z kodem do repozyterium w katalogu 'TwApB'
+6. Utworzyć zdalne repozytorium i wysłać na nie całą zawartość repo z katalogu 'TwApB' i również odświeżoną wersję pliku 'ImieNazwisko'.
+7. Link do repo na GitHubie należy wysłac na adres: jkolodziejczyk@ajp.edu.pl
